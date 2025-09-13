@@ -1,21 +1,35 @@
 import React from 'react'
 import "../App.css"
-import { Link, useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom'
 export default function LandingPage() {
-  return (
-    <div className='landingPageContainer'>
-        <nav>
+
+
+    const router = useNavigate();
+
+    return (
+        <div className='landingPageContainer'>
+            <nav>
                 <div className='navHeader'>
                     <h2>MeetEase Video Call</h2>
                 </div>
                 <div className='navlist'>
-                    <p>Join as Guest</p>
-                    <p>Register</p>
-                    <div role='button'>
+                    <p onClick={() => {
+                        router("/aljk23")
+                    }}>Join as Guest</p>
+                    <p onClick={() => {
+                        router("/auth")
+
+                    }}>Register</p>
+                    <div onClick={() => {
+                        router("/auth")
+
+                    }} role='button'>
                         <p>Login</p>
                     </div>
                 </div>
             </nav>
+
+
             <div className="landingMainContainer">
                 <div>
                     <h1><span style={{ color: "#FF9839" }}>Connect</span> with your loved Ones</h1>
@@ -31,6 +45,9 @@ export default function LandingPage() {
 
                 </div>
             </div>
-    </div>
-  )
+
+
+
+        </div>
+    )
 }
