@@ -1,6 +1,6 @@
 MeetEase 🎥
 
-A real-time video conferencing application inspired by Zoom, built as part of the Apna College Project Series.
+A real-time video conferencing application inspired by Zoom.
 
 🚀 Overview
 
@@ -36,30 +36,19 @@ Other Tools: Axios, Git/GitHub
 
 📂 Project Setup
 
-Clone the repository
-
-git clone https://github.com/mansimandviya/MeetEase.git
-cd MeetEase
+Clone the repository: git clone https://github.com/mansimandviya/MeetEase.git -> cd MeetEase
 
 
-Install dependencies
-
-npm install
+Install dependencies: npm install
 
 
-Start the backend server
-
-node src/app.js
+Start the backend server: node src/app.js
 
 
-Start the frontend
-
-npm start
+Start the frontend: npm start
 
 
-Open in browser
-
-http://localhost:3000
+Open in browser: http://localhost:3000
 
 📸 Screenshots
 
