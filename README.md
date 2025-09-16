@@ -51,8 +51,14 @@ Start the frontend: npm start
 Open in browser: http://localhost:3000
 
 📸 Screenshots
-
-
+Landing Page
+<img width="1889" height="885" alt="image" src="https://github.com/user-attachments/assets/3349c345-e9a6-4885-8b65-857580046216" />
+Sign in/ Sign up page
+<img width="717" height="671" alt="image" src="https://github.com/user-attachments/assets/504915c2-47ad-463e-aeab-201048b8c4cb" />
+Join as guest
+<img width="1030" height="880" alt="image" src="https://github.com/user-attachments/assets/b788fed3-c195-482b-8aa8-0cdc25b79bc5" />
+Screen share and chatbot page
+<img width="1911" height="895" alt="image" src="https://github.com/user-attachments/assets/1ac6c53f-0d77-4db5-b8c2-ea76bd310a7c" />
 
 📌 Future Enhancements
 
