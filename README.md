@@ -58,7 +58,6 @@ Sign in/ Sign up page
 Join as guest
 <img width="1030" height="880" alt="image" src="https://github.com/user-attachments/assets/b788fed3-c195-482b-8aa8-0cdc25b79bc5" />
 Screen share and chatbot page
-<img width="1911" height="895" alt="image" src="https://github.com/user-attachments/assets/1ac6c53f-0d77-4db5-b8c2-ea76bd310a7c" />
 
 📌 Future Enhancements
 
