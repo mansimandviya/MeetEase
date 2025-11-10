@@ -1,6 +1,6 @@
 MeetEase 🎥
 
-A real-time video conferencing application inspired by Zoom.
+A real-time video conferencing application.
 
 🚀 Overview
 
